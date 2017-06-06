@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 11 16:51:33 2016
 
-@author: Aayush - Carlson
+@author: Vibhore
 """
 
 import graphlab as gl
